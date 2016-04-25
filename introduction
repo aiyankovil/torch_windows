@@ -1,0 +1,2 @@
+use TorchControl on Lumia 820 like this - first you have to specify which camera you will use - the default is front (I think that's why you may find some problems) and we want the back one - the one with flash light. Sample code:
+
